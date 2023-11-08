@@ -5,5 +5,3 @@
 <a href="mailto:ryanjbroome@gmail.com"> ryanjbroome@gmail.com </a> 
 <br>
 <a href="https://twitter.com/EmpireEdition"> @EmpireEdition </a>
-
-<a href="https://github.com/"> @gitHub </a>
